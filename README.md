@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lars-andren
-- 👀 I’m interested in application security
+- 👀 I’m interested in everything application security
 - 🌱 I’m currently learning security
 - 💞️ I’m looking to collaborate on anything Java
 - 📫 Mail me!
